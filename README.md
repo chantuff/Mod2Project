@@ -1,8 +1,6 @@
-# React + Vite
+# Mod 2 Project
+I will be using HTML, Javascript, CSS and React for my project
+I will be using the newsapi.org api for this app. It will pull top headlines from TechCrunch in real time
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Will start creating my wireframe 11/22/23 with a completion date of 11/24/23
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
