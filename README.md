@@ -1,6 +1,6 @@
 # Mod 2 Project 
 I will be using HTML, Javascript, CSS and React for my project.
-I will be retreiving information from base url: https://newsapi.org
+I will be retreiving information from base url: https://newsapi.org.
 Using this api, you can locate articles and breaking news headlines from news sources and blogs across the web.
 endpoint: https://newsapi.org/v2/top-headlines
 This endpoint gives live top and breaking headlines for a country, single source, or multiple sources. You can also search with keywords. Articles are sorted by the earliest date published first. This endpoint is great for retrieving headlines for use with news tickers or similar.
