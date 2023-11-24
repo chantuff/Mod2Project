@@ -5,7 +5,16 @@ I will be using the newsapi.org api for this app. It will pull top headlines fro
 <br>
 # Wireframe completed by 11/24/23
 
-# About
+# Components
+Nav.jsx
+<br>
+# Pages
+Home
+<br>
+News:
+Fetch data from api here
+<br>
+About:
 base url = https://newsapi.org
 <br>
 endpoint = /top-headlines/sources
