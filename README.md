@@ -19,6 +19,10 @@ About:
 # Wireframe 
 
 ![image](https://github.com/chantuff/Mod2Project/assets/78155828/7c770548-8937-459b-a049-86ec99e9b77b)
+![image](https://github.com/chantuff/Mod2Project/assets/78155828/4d63cd45-ce8a-4399-87a8-cb1c94cfee73)
+![image](https://github.com/chantuff/Mod2Project/assets/78155828/7edf2a9a-fd70-4cbf-aebf-2fccbf79a173)
+
+
 
                                             |
 
