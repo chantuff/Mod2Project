@@ -6,10 +6,10 @@ I will be using the newsapi.org api for this app. It will pull top headlines fro
 # Wireframe completed by 11/24/23
 
 # Components
-Nav.jsx
+Nav:
 <br>
 # Pages
-Home
+Home:
 <br>
 News:
 Fetch data from api here
