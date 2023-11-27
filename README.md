@@ -17,18 +17,11 @@ Worldwide accurate and reliable realtime, hourly, daily and 15 min interval 14 d
 <br>
 # Components
 <br>
-Nav
+Home
 <br>
 Weather
 <br>
 Not found
-# Pages
-Home:
-<br>
-Weather:
-<br>
-About:
-
 # Wireframe 
 
 --------------------------------------------------------------
