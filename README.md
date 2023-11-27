@@ -26,10 +26,10 @@ News:
 About:
 
 # Wireframe 
+<img width="723" alt="image" src="https://github.com/chantuff/Mod2Project/assets/78155828/643619e3-5d85-4ee1-b1b0-596c22147cf5">
+<img width="723" alt="image" src="https://github.com/chantuff/Mod2Project/assets/78155828/f76ea05a-a47e-47a2-b5e2-3a3d167989e8">
+<img width="723" alt="image" src="https://github.com/chantuff/Mod2Project/assets/78155828/e5f784a1-2d34-42a1-a5a7-0362e8824c3b">
 
-![image](https://github.com/chantuff/Mod2Project/assets/78155828/7c770548-8937-459b-a049-86ec99e9b77b)
-![image](https://github.com/chantuff/Mod2Project/assets/78155828/4d63cd45-ce8a-4399-87a8-cb1c94cfee73)
-![image](https://github.com/chantuff/Mod2Project/assets/78155828/7edf2a9a-fd70-4cbf-aebf-2fccbf79a173)
 
 
 
