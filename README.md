@@ -1,10 +1,19 @@
 # Mod 2 Project 
 I will be using HTML, Javascript, CSS and React for my project.
-I will be retreiving information from base url: https://newsapi.org.
-Using this api, you can locate articles and breaking news headlines from news sources and blogs across the web.
-endpoint: https://newsapi.org/v2/top-headlines
-This endpoint gives live top and breaking headlines for a country, single source, or multiple sources. You can also search with keywords. Articles are sorted by the earliest date published first. This endpoint is great for retrieving headlines for use with news tickers or similar.
-Example endpoint to get country specific headlines using parameters: https://newsapi.org/v2/top-headlines?country=us&apiKey=API_KEY
+I will be retreiving information from base url: https://weatherapi.com
+Using this api, provides you with access to real-time or current weather information.
+Worldwide accurate and reliable realtime, hourly, daily and 15 min interval 14 day weather forecast, future weather (upto 365 days ahead), air quality data and historical weather data for any geo point in the world. Data can be accessed using:
+<ul>
+City or town name
+Latitude and Longitude (decimal degree)
+UK postcode
+US ZIP code
+Canada postal code
+IP address
+Auto IP detection
+Airport code
+metar
+</ul>
 <br>
 # Components
 Nav:
