@@ -28,8 +28,36 @@ About:
 
 # Wireframe 
 <img width="723" alt="image" src="https://github.com/chantuff/Mod2Project/assets/78155828/643619e3-5d85-4ee1-b1b0-596c22147cf5">
-<img width="723" alt="image" src="https://github.com/chantuff/Mod2Project/assets/78155828/f76ea05a-a47e-47a2-b5e2-3a3d167989e8">
-<img width="723" alt="image" src="https://github.com/chantuff/Mod2Project/assets/78155828/e5f784a1-2d34-42a1-a5a7-0362e8824c3b">
+--------------------------------------------------------------
+|                       Weather App                          |
+--------------------------------------------------------------
+| Location Input           | Search Button                   |
+--------------------------------------------------------------
+|                                                             |
+|                       Current Weather                       |
+|                                                             |
+--------------------------------------------------------------
+|                                                             |
+|                   7-Day Weather Forecast                   |
+|                                                             |
+|    -----------------------------------------------        |
+|   | Day 1       | Day 2       | Day 3       | ... |        |
+|    -----------------------------------------------        |
+|   | Weather     | Weather     | Weather     |     |        |
+|   | Icon        | Icon        | Icon        |     |        |
+|   | High/Low    | High/Low    | High/Low    |     |        |
+|    -----------------------------------------------        |
+|                                                             |
+--------------------------------------------------------------
+|                                                             |
+|                       Additional Info                        |
+|                                                             |
+|   Humidity:              Wind Speed:                          |
+|   Pressure:              Sunrise:                             |
+|   Sunset:                Sunset:                              |
+|                                                             |
+--------------------------------------------------------------
+
 
 
 
