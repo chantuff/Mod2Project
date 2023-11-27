@@ -16,12 +16,13 @@ Worldwide accurate and reliable realtime, hourly, daily and 15 min interval 14 d
 </ul>
 <br>
 # Components
+<br>
 Nav:
 <br>
 # Pages
 Home:
 <br>
-News:
+Weather:
 <br>
 About:
 
