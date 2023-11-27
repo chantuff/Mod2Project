@@ -27,7 +27,7 @@ Weather:
 About:
 
 # Wireframe 
-<img width="723" alt="image" src="https://github.com/chantuff/Mod2Project/assets/78155828/643619e3-5d85-4ee1-b1b0-596c22147cf5">
+
 --------------------------------------------------------------
 |                       Weather App                          |
 --------------------------------------------------------------
