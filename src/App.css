@@ -42,7 +42,7 @@
 } */
 
 .container {
-  background-image: url('./assets/sky.png');
+  background-image: url('sky.png.png');
   width: 607px;
   height: 829px;
   margin: auto;
@@ -74,7 +74,7 @@
 
 .welcome {
   text-align: center;
-  color: rgb(87, 66, 209);
+  color: white;
   margin-top: 10px;
 }
 .weatherdata {
