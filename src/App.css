@@ -41,6 +41,9 @@
   color: #888;
 } */
 
+body {
+  background-color: rgb(168, 193, 232);
+}
 .container {
   background-image: url('sky.png.png');
   width: 607px;
