@@ -10,16 +10,18 @@ function App() {
  
 
   return (
-    <div className='container'>
+    <>
     <Nav />
     <Footer />
+    {/* Routes */}
       <Routes>
         <Route path='/' element={<Home/>} />
         <Route path='weatherdata' element={<WeatherData/>} />
         <Route path='about' element={<About/>} />
       </Routes>
-       
-    </div>
+      </>
+    
+   
   )
 }
 

@@ -1,64 +1,24 @@
-/* #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
-
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
-} */
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
 
 body {
   background-color: rgb(168, 193, 232);
 }
 .container {
   background-image: url('sky.png.png');
-  width: 607px;
-  height: 829px;
+  width: 600px;
+  height: 800px;
   margin: auto;
-  margin-top: 75px;
+  margin-top: 5px;
   border-radius: 12px;
   background-repeat: no-repeat;
   
 }
 .home-container {
   width: 600px;
-  height: 600px;
-  background-color: rgb(91, 142, 209);
+  height: 800px;
+  border-radius: 12px;
   background-image: url('sky.png.png');
+  background-repeat: no-repeat;
 }
 .nav {
   display: flex;
@@ -88,6 +48,7 @@ body {
   display: flex;
   justify-content: center;
   padding-top: 20px;
+ 
 }
 
 .search-icon {
@@ -95,6 +56,7 @@ body {
   justify-content: center;
   align-items: center;
   width: 80px;
+  cursor: pointer;
 }
 
 .about {
@@ -103,9 +65,11 @@ body {
 }
 .about-container {
   width: 600px;
-  height: 600px;
+  height: 800px;
   background-color: rgb(91, 142, 209);
   background-image: url('sky.png.png');
+  background-repeat: no-repeat;
+  border-radius: 12px;
 }
 .about-text {
   color: white;
@@ -121,4 +85,49 @@ body {
   background-color: rgb(91,142,209);
   color: white;
   text-align: center;
+}
+.weather-image {
+  margin-top: 29px;
+  display: flex;
+  justify-content: center;
+}
+.weather-temp {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 120px;
+  font-weight: 400;
+}
+.weather-location {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 60px;
+  font-weight: 400;
+}
+.data-container {
+  margin-top: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.element {
+  margin: auto;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+.data {
+  font-size: 34px;
+  font-weight: 400;
+
+}
+.text {
+  font-size: 20px;
+  font-weight: 400;
+
+}
+.icon {
+  margin-top: 10px;
+
 }
