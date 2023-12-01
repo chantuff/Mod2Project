@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 
 const WeatherData = () => {
   let api_key = "ca063b49b4bace89d4b0e1638ae372da";
@@ -24,6 +24,10 @@ const WeatherData = () => {
     wind[0].innerHTML = Math.floor(data.wind.speed) + " km/h";
     temperature[0].innerHTML = Math.floor(data.main.temp) + "°c";
     location[0].innerHTML = data.name;
+
+    useEffect(() => {
+      const fetchWeatherData = useEffect;
+    })
 
     if (data.weather[0].icon === "01d" || data.weather[0].icon === "01n") {
       setWicon("clear.png");

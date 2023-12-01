@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function Home() {
   function randomText() {
-    let text = ('******************');
+    let text = ("'''''''''''''''''''");
     let letters = text[Math.floor(Math.random() * text.length)];
     return letters;
   }
